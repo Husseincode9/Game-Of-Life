@@ -1,4 +1,4 @@
-# Worksheet 4
+# Game Of Life!
 
 Forked the provided repo and continued to clone it:
 
@@ -75,4 +75,5 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
  1. `Git add .`  
  2. `Git commit -m "Completed Tasks`
  3. `Git push -u origin master`
+
  4. After entering your credentials your push will finalise.
