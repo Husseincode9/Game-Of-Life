@@ -1,0 +1,13 @@
+glider 5 5
+pattern 9 9 asa.cells
+beacon 20 20
+glider 55 55
+pulsar 85 85
+sauron 100 100
+glider 60 60
+sauron 30 30
+
+11 13
+10 9
+16 12
+10 8
